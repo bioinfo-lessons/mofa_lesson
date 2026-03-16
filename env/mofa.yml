@@ -1,0 +1,20 @@
+name: mofa
+channels:
+  - bu_cnio
+  - conda-forge
+  - bioconda
+  - rschauner 
+  - defaults
+dependencies:
+  - bioconductor-mofa2
+  - bioconductor-mofadata
+  - mofapy2
+  - r-ggplot2
+  - r-tidyverse
+  - r-fitdistrplus
+  - bioconductor-basilisk
+  - r-reticulate
+  - r-psych
+  - bioconductor-mygene
+  - r-survival
+  - r-survminer
