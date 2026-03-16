@@ -183,6 +183,7 @@ plot_variance_explained(MOFAobject, max_r2 = 15)
 # Analizamos qué vistas están más explicadas por el modelo.
 plot_variance_explained(MOFAobject, plot_total = TRUE)[[2]]
 
+
 ##############################################################################
 # Asociación entre factores y variables clínicas con MOFA
 
